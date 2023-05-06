@@ -12,5 +12,9 @@ adicionar audio:
 <audio src="url.do.audio" controls>"mensagem.de.erro"
 </audio>
 ```
+áudio, vídeo, documentos PDF, animações em Flash e outros tipos de mídia diretamente na página:
+```bash
+<embed src="url"/>
+```
 *O atributo "controls" exibe controles de reprodução padrão,
 como um botão de play/pause e uma barra de progresso.
