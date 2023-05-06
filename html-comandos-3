@@ -16,5 +16,11 @@ adicionar audio:
 ```bash
 <embed src="url"/>
 ```
+áudio com controles:
+```bash
+<audio controls>
+<source src="url" type="audio/mp3">
+</audio> 
+```
 *O atributo "controls" exibe controles de reprodução padrão,
 como um botão de play/pause e uma barra de progresso.
