@@ -83,9 +83,9 @@ usuário selecione a opção desejado a partir de uma lista de opções predefin
 <textarea id="x" name="igual.ao.id" rows="x" cols="x"></textarea>
 </section>
 ```
-botão para enviar informações:
+botão para enviar informações ao servidor:
 ```bash
 <section class="nome.atributo.classe">
-<input type="x" value="igual.a.type">
+<input type="submit" value="igual.a.type">
 </section>
 ```
