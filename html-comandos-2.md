@@ -4,7 +4,7 @@ lista ordenada/numerada:
     <li>"objeto.aqui"</li>
 </ol>
 ```
-lista desordenada/não possui numeração:
+lista desordenada/sem numeração:
 ```bash
 <ul>
     <li>"objeto.aqui"</li>
