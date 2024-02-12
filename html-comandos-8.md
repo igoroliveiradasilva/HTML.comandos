@@ -1,4 +1,4 @@
-campo de preenchimento obrigatório:
+campo para preenchimento obrigatório:
 ```bash
 <form action="id.local.dados" method="GET">
 <label for="igual.ao.id">"texto"</label>
