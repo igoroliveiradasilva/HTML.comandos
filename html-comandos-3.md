@@ -23,4 +23,4 @@ adicionar audio:
 </audio> 
 ```
 *O atributo "controls" exibe controles de reprodução padrão,
-como um botão de play/pause e uma barra de progresso.
+como um botão de play, pause e uma barra de progresso.
