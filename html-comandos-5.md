@@ -22,7 +22,7 @@ rodapé da tabela:
 ```bash
 <tfoot> </tfoot>
 ```
-para um dado ocupar mais de uma linha, use o elemento:
+ocupar mais de uma linha com um dado:
 ```bash
 <td rowspan="numero.de.linha">"nome.dado"</td>
 ```
