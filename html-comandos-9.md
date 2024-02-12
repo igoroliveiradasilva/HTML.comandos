@@ -23,9 +23,13 @@ definir um conteúdo independente e autônomo em uma página:
 <aside> </aside>
 ```
 envolver uma midia e sua legenda separados do conteúdo:
-``bash
+```bash
 <figure>
 <img src="url" alt="Descrição da imagem">
 <figcaption>"Legenda da imagem"</figcaption>
 </figure>  
+```
+adicionar um comentário no HTML:
+```bash
+<!-- este é um comentário -->
 ```
