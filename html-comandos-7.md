@@ -71,7 +71,7 @@
         <section class="extra-info">
           <label for="extra">Anything else you want to add?</label>
           <br>
-          <textarea id="extra" name="extra" rows="3" cols="40">
+          <textarea id="extra" name="extra" rows="3" cols="40"></textarea>
         </section>
         <hr>
         <section class="submission">
