@@ -31,7 +31,8 @@ palavra em negrito:
 <strong> </strong>
 ```
 palavra em italico:
-```bash <em> </em>
+```bash 
+<em>"palavra.aqui"</em>
 ```
 pedaço de estrutura usado para separar estrutas de um código e facilitar estilizacão:
 ```bash
