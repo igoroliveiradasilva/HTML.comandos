@@ -32,7 +32,7 @@ palavra em negrito:
 ```
 palavra em italico:
 ```bash 
-<em>"palavra.aqui"</em>
+<em> </em>
 ```
 pedaço de estrutura usado para separar estrutas de um código e facilitar estilizacão:
 ```bash
