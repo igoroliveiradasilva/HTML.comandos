@@ -31,10 +31,9 @@ palavra em negrito:
 <strong> </strong>
 ```
 palavra em italico:
-<em> </em>
+```bash <em> </em>
 ```
-pedaço de estrutura:
-usado para separar estrutas de um código e facilitar estilizacão:
+pedaço de estrutura usado para separar estrutas de um código e facilitar estilizacão:
 ```bash
 <div id="definir.id"> </div>
 ```
